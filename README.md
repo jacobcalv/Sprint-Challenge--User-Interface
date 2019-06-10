@@ -57,11 +57,11 @@ You are expected to be able to answer all these questions. Your responses contri
 ## Project Set Up
 
 - [ 1] Create a forked copy of this project.
-- [ ] Add your project manager as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [ 1] Add your project manager as collaborator on Github.
+- [ 1] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ 1] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [1 ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [1 ] Push commits: git push origin `<firstName-lastName>`.
  
 Follow these steps for completing your project.
 
@@ -84,16 +84,16 @@ Your finished project must include all of the following requirements:
 
 You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
 
-* [ ] box1: `teal`
-* [ ] box2: `gold`
-* [ ] box3: `cadetblue`
-* [ ] box4: `coral`
-* [ ] box5: `crimson`
-* [ ] box6: `forestgreen`
-* [ ] box7: `darkorchid`
-* [ ] box8: `hotpink`
-* [ ] box9: `indigo`
-* [ ] box10: `dodgerblue`
+* [1 ] box1: `teal`
+* [ 1] box2: `gold`
+* [1 ] box3: `cadetblue`
+* [ 1] box4: `coral`
+* [1 ] box5: `crimson`
+* [ 1] box6: `forestgreen`
+* [1 ] box7: `darkorchid`
+* [1 ] box8: `hotpink`
+* [ 1] box9: `indigo`
+* [ 1] box10: `dodgerblue`
 
 ### About Page
 
