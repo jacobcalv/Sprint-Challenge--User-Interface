@@ -245,8 +245,79 @@ body .container-about-page .about-head {
     margin-bottom: 20px;
 }
 
+.main-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+button {
+    border-radius: 10px;
+    border: 1px double black;
+    width: 100px;
+    height: 32px;
+    margin-top: 10px;
+}
+
+.textbox {
+    width: 370px;
+    height: 0px auto;
+    padding-bottom: 15px;
+    border-bottom: dotted 2px black;
+    margin: 15px;
+}
+
+.imgs {
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.imgbox1 {
+    margin-right: 15px;
+}
+
+.imgbox3 {
+    margin-right: 15px;
+}
 
 
 
+.textbox1 {
+    order: 3;
+}
 
+.textbox2 {
+    order: 4;
+}
+
+.textbox3 {
+    order: 7;
+}
+
+.textbox4 {
+    order: 8;
+}
+
+.imgbox1 {
+    order: 1;
+}
+
+.imgbox2 {
+    order: 2;
+}
+
+.imgbox3 {
+    order: 5;
+}
+
+.imgbox4 {
+    order: 6;
+}
+
+.letswork {
+    width:100%;
+    padding: 10px 15px 15px 20px;
+    margin-bottom: 20px; 
+    margin-top: 20px;
+}
 
