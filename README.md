@@ -34,24 +34,34 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+I would say that semantic html is giving meaning to your content so that the browsers can easily translate it (ex. <p>).
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Display: block and display: inline differ by that with inline the element is displayed inline, in the current block and with display block it doesnt respect any other html and gives itself its own block of space. 
 
 3. What are the 4 areas of the box model?
 
+Content, padding, border, margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git is valuable to a team because it allows many people to work on one thing at once and not automatically merge it to the master copy. Git allows a team to be able to review what other members are doing before submitting to master. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your project manager as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [ 1] Create a forked copy of this project.
+- [ 1] Add your project manager as collaborator on Github.
+- [ 1] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ 1] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [1 ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [1 ] Push commits: git push origin `<firstName-lastName>`.
  
 Follow these steps for completing your project.
 
@@ -74,16 +84,16 @@ Your finished project must include all of the following requirements:
 
 You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
 
-* [ ] box1: `teal`
-* [ ] box2: `gold`
-* [ ] box3: `cadetblue`
-* [ ] box4: `coral`
-* [ ] box5: `crimson`
-* [ ] box6: `forestgreen`
-* [ ] box7: `darkorchid`
-* [ ] box8: `hotpink`
-* [ ] box9: `indigo`
-* [ ] box10: `dodgerblue`
+* [1 ] box1: `teal`
+* [ 1] box2: `gold`
+* [1 ] box3: `cadetblue`
+* [ 1] box4: `coral`
+* [1 ] box5: `crimson`
+* [ 1] box6: `forestgreen`
+* [1 ] box7: `darkorchid`
+* [1 ] box8: `hotpink`
+* [ 1] box9: `indigo`
+* [ 1] box10: `dodgerblue`
 
 ### About Page
 
